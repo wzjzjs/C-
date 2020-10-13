@@ -1,0 +1,7 @@
+#incliude<iostream>
+using namespace std;
+int main()
+{
+cout <<“ Hello World”；\\輸出Hello World
+返回0; \\返回值
+}
